@@ -42,9 +42,6 @@ nav div{
     justify-self: center;
     transition: all 1000ms ease;
 }
-.avatar:hover{
-    transform: scale(1.2);
-}
 .name{
     position: absolute;
     color: #f2ebe5;
